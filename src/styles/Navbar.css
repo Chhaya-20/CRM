@@ -1,0 +1,34 @@
+.buttons button{
+background-color: lightskyblue;}
+.nav{
+    background-color: white;
+    width: 100%;
+    box-shadow: #00000036 10px 5px 5px;
+}
+.logo{
+height: 50px;
+width: 50px;
+}
+.navbar{
+    background-color: white;
+    color: black;
+}
+
+.pp nav{
+    background-color: #1a202c;
+}
+.pp nav{
+    color: white;
+}
+.nav nav{
+    width: 80%;
+    margin: auto;
+
+}
+.pp .nav{
+    background: black;
+    
+}
+.pp .nav nav{
+   background: black;
+}

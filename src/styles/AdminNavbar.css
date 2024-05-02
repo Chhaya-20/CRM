@@ -1,0 +1,10 @@
+nav{
+    background-color: #2A3F54;
+    color: white;
+}
+nav a{
+    color: white;
+}
+*{
+    box-sizing: border-box;
+}
